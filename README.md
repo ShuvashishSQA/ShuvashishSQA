@@ -25,6 +25,6 @@ I'm an SQA Engineer with expertise in Manual Testing, Automation with Selenium a
   </a>
 
   <a href="tel:+8801813989531">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
