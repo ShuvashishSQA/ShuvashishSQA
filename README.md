@@ -1,4 +1,4 @@
-# Hi, I'm Shuvashish Bhattacharjee 👋
+# Hi, I'm Shuvashish Bhattacharjee 👋 👋
 I'm an SQA Engineer with expertise in Manual Testing, Automation with Selenium and Katalon Studio, GIT, Jira, and more!
 
 ## 🔧 Skills
