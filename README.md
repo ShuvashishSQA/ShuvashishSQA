@@ -2,13 +2,14 @@
 I'm an SQA Engineer with expertise in Manual Testing, Automation with Selenium and Katalon Studio, GIT, Jira, and more!
 
 ## 🔧 Skills
-- Manual Testing
-- Test Automation with Selenium
-- GIT for Version Control
+- Manual Testing Expert
+- Load Testing
+- Performance Testing
+- Requirement Collection
+- Basic Test Automation with Katalon Studio, Selenium
 - Test Case and Test Report Preparation
 - UAT
 - Customer Support
-- TestNG
 
 ## 🌱 Currently Learning
 - Advanced Test Automation Techniques
