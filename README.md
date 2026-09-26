@@ -3,10 +3,11 @@ I'm an SQA Engineer with expertise in Manual Testing, Automation with Selenium a
 
 ## 🔧 Skills
 - Manual Testing Expert
+- Upskilling Automation using Playwright x JS
 - Load Testing
 - Performance Testing
 - Requirement Collection
-- Basic Test Automation with Katalon Studio, Selenium
+- Basic Test Automation with Katalon Studio
 - Test Case and Test Report Preparation
 - UAT
 - Customer Support
